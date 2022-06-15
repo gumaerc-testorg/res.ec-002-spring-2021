@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/29274c1cafce008a0d7e5e40a1d16df8_RES-EC002.jpg
+file: /courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/29274c1cafce008a0d7e5e40a1d16df8_RES-EC002.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Conducting interviews is a qualitative research method that can be used
