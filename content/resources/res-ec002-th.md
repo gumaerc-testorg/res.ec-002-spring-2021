@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/d2860f97af2834beee364e64b000a2e2_RES-EC002-th.jpg
+file: /ol-ocw-studio-app/courses/res-ec-002-lean-research-skills-for-conducting-interviews-spring-2021/d2860f97af2834beee364e64b000a2e2_RES-EC002-th.jpg
 file_size: 30150
 file_type: image/jpeg
 image_metadata:
