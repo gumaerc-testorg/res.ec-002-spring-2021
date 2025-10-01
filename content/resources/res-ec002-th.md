@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Conducting interviews is a qualitative research method that can be used
     in a variety of fields, including business, design, and many social sciences.
-    (Image by [UX Indonesia](https://unsplash.com/photos/Rf6lwwbsZB4) on Unsplash.)
+    (Image by {{% resource_link "89677d3d-22ff-4c81-b3b5-075d7722d2e0" "UX Indonesia"
+    %}} on Unsplash.)
   credit: Image by UX Indonesia on Unsplash.
   image-alt: 'Two women sit together at a table talking to each other. One woman is
     taking notes with a pen and notebook. The other woman sits in front of an open
